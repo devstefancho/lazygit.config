@@ -2,3 +2,5 @@ keybinding:
   universal:
     quit: "<esc>"
     return: "q" # return to previous menu, will quit if there's nowhere to return
+    scrollLeft: "" # scroll left within list view
+    scrollRight: "" # scroll right within list view
